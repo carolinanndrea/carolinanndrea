@@ -1,6 +1,6 @@
 <!-- Banner - Agrega tu imagen aquí -->
-![Banner](<img width="1400" height="350" alt="bg deskcaro" src="https://github.com/user-attachments/assets/1666da4a-e5cb-4695-b43b-56132ba13d2b" />
-)
+![Banner](bg.deskcaro.png)
+
 
 # ¡Hola! 👋 Soy Carolina Andrea
 
