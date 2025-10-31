@@ -53,8 +53,8 @@ Profesional con background en e-commerce, marketing digital y atención al clien
 
 ## 📫 Conectemos :)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([tu-linkedin-url](https://www.linkedin.com/in/carolina-fern%C3%A1ndez-fuentes/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolina.fernandezfuentes@hotmail.com)
 
 ---
 
