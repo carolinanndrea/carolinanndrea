@@ -8,7 +8,7 @@
 
 Profesional con background en e-commerce, marketing digital y atención al cliente (10+ años) ahora enfocada en desarrollo web. Me apasiona crear interfaces intuitivas que combinen funcionalidad técnica con excelente experiencia de usuario.
 
-**Graduada Bootcamp Generation Chile** | JavaScript • HTML • CSS • React • Node.js • Express • MongoDB • Bootstrap • REST APIs • Scrum
+**Graduada Bootcamp Generation Chile** | JavaScript • HTML • CSS • React • Node.js • Express • MongoDB • Bootstrap • REST APIs • Python entendimiento básico• Metodología Scrum
 
 
 ---
