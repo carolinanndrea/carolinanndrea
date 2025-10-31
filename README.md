@@ -2,7 +2,7 @@
 ![Banner](bg.deskcaro.png)
 
 
-# ¡Hola! Soy Carolina 👋
+# ¡Hola! Soy Carolina Fernández👋
 
 ## Desarrolladora Full Stack JavaScript en proceso | UX-minded | Bilingüe ES/EN
 
@@ -42,17 +42,16 @@ Profesional con background en e-commerce, marketing digital y atención al clien
 
 ## 💼 Lo que me hace diferente
 
-- 🛍️ **Ex-propietaria de e-commerce**: Entiendo el negocio detrás del código
-- 🎨 **Pasión por UX/UI**: Creo interfaces que los usuarios aman usar
-- 🌎 **Bilingüe ES/EN (C2)**: Lista para trabajar en equipos internacionales
-- 📊 **Marketing digital**: Conozco métricas, conversión y experiencia del usuario
-- 🤝 **10+ años en atención al cliente**: Sé escuchar y entender necesidades reales
-- 🚀 **Autodidacta**: Si no lo sé, lo aprendo 
+- **Ex-propietaria de e-commerce**: Entiendo el negocio detrás del código
+- **Pasión por UX/UI**: Creo interfaces que los usuarios aman usar
+- **Bilingüe ES/EN (C2)**: Lista para trabajar en equipos internacionales
+- **Marketing digital**: Conozco métricas, conversión y experiencia del usuario
+- **10+ años en atención al cliente**: Sé escuchar y entender necesidades reales
+- **Autodidacta**: Si no lo sé, lo aprendo 
 
 ---
 
 ## 📫 Conectemos :)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-fern%C3%A1ndez-fuentes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carolina.fernandezfuentes@hotmail.com)
 
