@@ -2,15 +2,14 @@
 ![Banner](bg.deskcaro.png)
 
 
-# ¡Hola! 👋 Soy Carolina Andrea
+# ¡Hola! Soy Carolina 👋
 
-## Desarrolladora Full Stack JavaScript | UX-minded | Bilingüe 🇪🇸🇬🇧
+## Desarrolladora Full Stack JavaScript en proceso | UX-minded | Bilingüe ES/EN
 
-Profesional con background en e-commerce, marketing digital y atención al cliente (9+ años) ahora enfocada en desarrollo web. Me apasiona crear interfaces intuitivas que combinen funcionalidad técnica con excelente experiencia de usuario.
+Profesional con background en e-commerce, marketing digital y atención al cliente (10+ años) ahora enfocada en desarrollo web. Me apasiona crear interfaces intuitivas que combinen funcionalidad técnica con excelente experiencia de usuario.
 
 **Graduada Bootcamp Generation Chile** | JavaScript • HTML • CSS • React • Node.js • Express • MongoDB • Bootstrap • REST APIs • Scrum
 
-**Explorando:** TypeScript • Next.js • Tailwind • Firebase
 
 ---
 
@@ -22,7 +21,6 @@ Profesional con background en e-commerce, marketing digital y atención al clien
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,6 +36,7 @@ Profesional con background en e-commerce, marketing digital y atención al clien
 ### Explorando
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -47,12 +46,12 @@ Profesional con background en e-commerce, marketing digital y atención al clien
 - 🎨 **Pasión por UX/UI**: Creo interfaces que los usuarios aman usar
 - 🌎 **Bilingüe ES/EN (C2)**: Lista para trabajar en equipos internacionales
 - 📊 **Marketing digital**: Conozco métricas, conversión y experiencia del usuario
-- 🤝 **9+ años en atención al cliente**: Sé escuchar y entender necesidades reales
-- 🚀 **Autodidacta**: Si no lo sé, lo aprendo
+- 🤝 **10+ años en atención al cliente**: Sé escuchar y entender necesidades reales
+- 🚀 **Autodidacta**: Si no lo sé, lo aprendo 
 
 ---
 
-## 📫 Conectemos
+## 📫 Conectemos :)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin-url)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
@@ -66,4 +65,4 @@ Profesional con background en e-commerce, marketing digital y atención al clien
 
 ---
 
-⭐️ **Abierta a oportunidades** como Desarrolladora Junior Full Stack, especialmente en proyectos que valoren UX, creatividad y pensamiento centrado en el usuario.
+⭐️ **Abierta a oportunidades** como Trainee, Prácticas o Desarrolladora Junior Full Stack, especialmente en proyectos que valoren UX, creatividad y pensamiento centrado en el usuario.
