@@ -1,5 +1,5 @@
 <!-- Banner - Agrega tu imagen aquí -->
-![Banner](Carolina Fernández Desarrollo Full Stack JavaScript.pngbg.deskcaro.png)
+![Banner](bg.deskcaro.png)
 
 
 # ¡Hola! Soy Carolina Fernández👋
