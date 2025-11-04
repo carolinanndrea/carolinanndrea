@@ -1,5 +1,5 @@
 <!-- Banner - Agrega tu imagen aquí -->
-![Banner](bg.deskcaro.png)
+![Banner](carobg.png)
 
 
 # ¡Hola! Soy Carolina Fernández👋
