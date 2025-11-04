@@ -1,5 +1,5 @@
 <!-- Banner - Agrega tu imagen aquí -->
-![Banner](carobg.png)
+![Banner](CarolinaFernándezDesarrolloFullStackJavaScript.png)
 
 
 # ¡Hola! Soy Carolina Fernández👋
